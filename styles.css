@@ -32,3 +32,16 @@ kbd {
     display: block;
     font-size: 4rem;
 }
+
+.playing {
+    transform: scale(1.1);
+    border-color: rgb(254, 0, 221);
+    box-shadow: 0 0 1rem rgb(254, 0, 221);
+    text-transform: uppercase;
+}
+
+.sound {
+    font-size: 1.2rem;
+    letter-spacing: .1rem;
+    color: rgb(254, 0, 221);
+}
