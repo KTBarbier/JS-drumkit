@@ -45,3 +45,13 @@ kbd {
     letter-spacing: .1rem;
     color: rgb(254, 0, 221);
 }
+
+footer {
+    color: white;
+    text-align: right;
+    font-size: larger;
+}
+
+a {
+    color: rgb(254, 0, 221);
+}
